@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1AENPgnEVp5ODtBmPyBx1ZAjPqlOwmlkebco4OTwrzak/edit?usp=sharing](https://docs.google.com/document/d/1AENPgnEVp5ODtBmPyBx1ZAjPqlOwmlkebco4OTwrzak/edit?usp=sharing)
 
-- ⚡ Fun fact **Nothing funny i'm just a geek**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yasmen-mohammed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasmen-mohammed/" height="30" width="40" /></a>

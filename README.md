@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yasmen.abodabash@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AENPgnEVp5ODtBmPyBx1ZAjPqlOwmlkebco4OTwrzak/edit?usp=sharing](https://docs.google.com/document/d/1AENPgnEVp5ODtBmPyBx1ZAjPqlOwmlkebco4OTwrzak/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PwaLPzMqb5vzyZQzYzxwu0R4Xf5W2O6R/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

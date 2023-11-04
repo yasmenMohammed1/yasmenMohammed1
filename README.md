@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasmenmohammed1&label=Profile%20views&color=0e75b6&style=flat" alt="yasmenmohammed1" /> </p>
 
-- 🔭 I’m currently working on [ToWatch movie system](https://github.com/yasmenMohammed1/whatToWatch)
+- 🔭 I’m currently working at [BIM Ventures](https://bimventures.com/)
 
-- 🌱 I’m currently learning **ReactJS, Angular 13, NodeJS**
+- 🌱 I’m currently learning ** Next.js , React.js, Angular , Node.js**
 
-- 👯 I’m looking to collaborate on [clinic system](https://github.com/yasmenMohammed1/clinic-manegment-system-angular)
+- 👯 my last side project is  [ skip intro extension ](https://github.com/yasmenMohammed1/skip-shahid-intro)
 
 - 💬 Ask me about **Javascript, oop, design patterns**
 
